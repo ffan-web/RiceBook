@@ -1,0 +1,9 @@
+.mainbackground {
+    background-color: aliceblue;
+    background-image: none;
+}
+
+.godown{
+    position: relative;
+    top: 180px;
+}

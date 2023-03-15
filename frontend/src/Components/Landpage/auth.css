@@ -1,0 +1,130 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image:url("https://wiki.rice.edu/confluence/download/attachments/39514454/campus-zoom-lovett.jpg?version=1&modificationDate=1587063053112&api=v2");
+    background-color:#3594D2;
+    background-size: cover;
+    margin: 0 auto 0 auto;  
+    width:100%; 
+    text-align:center;
+    margin: 20px 0px 20px 0px;   
+}
+
+p{
+    font-size:12px;
+    text-decoration: none;
+    color:#ffffff;
+}
+
+h4{
+    font-size:1.5em;
+    color:hsl(0, 2%, 23%);
+}
+
+.box{
+    background:white;
+    opacity: 0.8;
+    width:300px;
+    border-radius:6px;
+    margin: 0 auto 0 auto;
+    padding:0px 0px 70px 0px;
+    border: white 4px solid; 
+}
+
+input{
+    background:#ecf0f1;
+    border: #ccc 1px solid;
+    border-bottom: #ccc 2px solid;
+    padding: 8px;
+    width:250px;
+    color:#AAAAAA;
+    margin-top:10px;
+    font-size:1em;
+    border-radius:4px;
+}
+
+button{
+    background:#ecf0f1;
+    border: #ccc 1px solid;
+    border-bottom: #ccc 2px solid;
+    padding: 8px;
+    width:250px;
+    color:#AAAAAA;
+    margin-top:10px;
+    font-size:1em;
+    border-radius:4px;
+}
+
+
+#btn2{
+    float:center;
+    background:#3498db;
+    width:250px;  padding-top:5px;
+    height:30px;
+    padding-bottom:5px;
+    color:white;
+    border-radius:4px;
+    border: #2980b9 1px solid;
+    
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:10px;
+    font-weight:800;
+    font-size:0.8em;
+}
+  
+#btn2:hover{ 
+  background:#3594D2; 
+}
+
+.btn{
+    background:#2ecc71;
+    width:125px;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    border-radius:4px;
+    border: #27ae60 1px solid;
+    
+    margin-top:20px;
+    margin-bottom:20px;
+    float:left;
+    margin-left:16px;
+    font-weight:800;
+    font-size:0.8em;
+}
+
+.btn:hover{
+    background:#2CC06B; 
+}
+
+#btn3{
+    float:left;
+    background:#3498db;
+    width:125px;  padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    border-radius:4px;
+    border: #2980b9 1px solid;
+    
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:10px;
+    font-weight:800;
+    font-size:0.8em;
+}
+  
+#btn3:hover{ 
+  background:#3594D2; 
+}
+
+#nouseralert{
+    font-size:20px;
+    text-decoration: none;
+    color: rgba(164, 66, 66, 0.757);
+}
+
+#signinalert{
+    font-size:15px;
+    text-decoration: none;
+    color: #3594D2;
+}

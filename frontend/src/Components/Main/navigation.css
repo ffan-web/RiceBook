@@ -1,0 +1,34 @@
+#Header {
+    background-color: #3b5998;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    padding: 5px;
+    color: aliceblue;
+    position: relative;
+    top:-30px;
+}
+
+.avatar {
+    float: left;
+}
+
+.prolog {
+    float: left;
+}
+
+.image {
+    border-radius: 30px;
+}
+
+.navbutton {
+    margin: 20px;
+    position: relative;
+    top : 60px;
+    right: 20px;
+    padding: 4px;
+    background:#3b5998;
+    border: #3b5998 1px solid;
+    width:100px;
+    color: aliceblue;
+}
